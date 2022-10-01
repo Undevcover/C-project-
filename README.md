@@ -1,3 +1,3 @@
-This is my first personal C project
-a calculator.
+This is my first personal C project,
+A calculator.
 
